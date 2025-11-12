@@ -1,0 +1,20 @@
+k,itemset,support
+1,Elixir,0.75
+1,Shield,0.625
+1,Sword,0.375
+1,Wand,0.375
+1,Gem,0.125
+1,Giant Wand,0.125
+2,"Elixir, Sword",0.375
+2,"Elixir, Shield",0.375
+2,"Shield, Wand",0.375
+2,"Elixir, Wand",0.25
+2,"Shield, Sword",0.125
+2,"Sword, Wand",0.125
+2,"Gem, Shield",0.125
+2,"Elixir, Giant Wand",0.125
+3,"Elixir, Shield, Wand",0.25
+3,"Shield, Sword, Wand",0.125
+3,"Elixir, Shield, Sword",0.125
+3,"Elixir, Sword, Wand",0.125
+4,"Elixir, Shield, Sword, Wand",0.125
